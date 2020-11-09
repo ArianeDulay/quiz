@@ -1,2 +1,2 @@
-# quiz
+news.html
 quiz pa din
